@@ -180,4 +180,4 @@ You should see the variable being inherited by the child script.
 
 ---
 
-Would you like any modifications or explanations for any of these scripts? 🚀
+Would you like any modifications or explanations for any of these scripts? 
