@@ -197,7 +197,7 @@ done
 
 ---
 
-### Here's a Bash script: `validate_ip.sh`
+### 7. Here's a Bash script: `validate_ip.sh`
 
 ### Description
 Validates whether a given IP address is a correct IPv4 address.
